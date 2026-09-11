@@ -114,7 +114,7 @@ GraspNet 权重应放在：
 代码/graspnet-baseline/checkpoint-rs.tar
 ```
 
-请从 [GraspNet Baseline 官方仓库](https://github.com/graspnet/graspnet-baseline)提供的链接获取权重，并确认文件完整。大型权重不建议直接提交到普通 Git 历史中，可使用 Git LFS、GitHub Release 或在 README 中提供下载地址。
+请从 [GraspNet Baseline 官方仓库](https://github.com/graspnet/graspnet-baseline)提供的链接获取权重，并确认文件完整。
 
 如果使用本地 Grounding DINO，将 `IDEA-Research/grounding-dino-base` 模型放在：
 

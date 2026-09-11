@@ -114,7 +114,7 @@ Place the GraspNet checkpoint at:
 代码/graspnet-baseline/checkpoint-rs.tar
 ```
 
-Obtain the checkpoint from the links in the [official GraspNet Baseline repository](https://github.com/graspnet/graspnet-baseline) and verify the downloaded file. Avoid committing large weights directly to ordinary Git history; use Git LFS, a GitHub Release, or a documented external download instead.
+Obtain the checkpoint from the links in the [official GraspNet Baseline repository](https://github.com/graspnet/graspnet-baseline) and verify the downloaded file. 
 
 For optional local Grounding DINO inference, place `IDEA-Research/grounding-dino-base` at:
 
