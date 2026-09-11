@@ -1,0 +1,25 @@
+# 相机和标定参数
+camera:
+  resolution: [1280, 720]  # 分辨率 [宽, 高]
+  fps: 30                  # 帧率
+
+# 棋盘格参数
+checkerboard:
+  pattern_size: [11, 8]    # 内角点数量 [列数, 行数]
+  square_size: 13.6       # 方格尺寸(毫米)
+
+# 图像质量参数
+image_quality:
+  threshold: 150           # 图像采集时的最小质量分数
+  calibration_threshold: 100  # 标定时的最小质量分数
+
+# 文件路径
+paths:
+  save_dir: './calibration_images'  # 保存目录
+
+# 机器人参数
+robot:
+  initial_position: [260, 0, 300]  # 初始位置 [x, y, z] (毫米)
+  initial_rotation: [180, 0, 90]   # 初始旋转角度 [rx, ry, rz] (度)
+  rotation_order: "xyz"            # 旋转顺序
+  speed_ratio: 1                   # 速度比例 
