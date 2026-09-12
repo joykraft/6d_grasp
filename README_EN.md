@@ -12,6 +12,8 @@ This is a research-oriented 6D grasping project for a custom robotic arm. It cap
 | :---: | :---: |
 | [<img src="docs/media/cover.jpg" alt="Real-robot demonstration of grasping, transferring, and placing a banana. Cover frame" width="280">](docs/media/demo.mp4) | <img src="docs/media/demo.gif" alt="Real-robot demonstration of grasping, transferring, and placing a banana. Animated preview at 1x speed" width="280"> |
 
+[**Watch the full real-robot video (about 43 s)**](docs/media/demo.mp4) — Includes target entry, program processing, and the robot grasping the requested object; original speed with audio.
+
 ## Features
 
 - RealSense RGB-D and point-cloud acquisition

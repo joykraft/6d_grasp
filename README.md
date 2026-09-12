@@ -12,6 +12,8 @@
 | :---: | :---: |
 | [<img src="docs/media/cover.jpg" alt="香蕉抓取、搬运与放置实机演示。封面" width="280">](docs/media/demo.mp4) | <img src="docs/media/demo.gif" alt="香蕉抓取、搬运与放置实机演示。1 倍速动图" width="280"> |
 
+[**观看完整实机视频（约 43 秒）**](docs/media/demo.mp4) — 包含输入目标、程序处理及机械臂抓取该目标的完整过程；原速、有声。
+
 ## 功能
 
 - RealSense RGB-D 图像与点云采集
