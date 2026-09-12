@@ -8,15 +8,9 @@ This is a research-oriented 6D grasping project for a custom robotic arm. It cap
 
 ## Real-Robot Demo
 
-Real-robot demonstration of grasping, transferring, and placing a banana. Click the cover to view the 13.3-second video at original speed.
-
-| Cover · click to view video | Action preview · 1× GIF |
+| Cover | Action preview · 1× GIF |
 | :---: | :---: |
 | [<img src="docs/media/cover.jpg" alt="Real-robot demonstration of grasping, transferring, and placing a banana. Cover frame" width="280">](docs/media/demo.mp4) | <img src="docs/media/demo.gif" alt="Real-robot demonstration of grasping, transferring, and placing a banana. Animated preview at 1x speed" width="280"> |
-
-[View the real-robot video at original speed (MP4)](docs/media/demo.mp4)
-
-The GIF is a continuous excerpt at 1× speed; the MP4 retains original speed. Audio is omitted. [Media notes](docs/media/README.md)
 
 ## Features
 
