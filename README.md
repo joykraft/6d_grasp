@@ -6,6 +6,18 @@
 
 > 当前状态：研究原型。机械臂会真实运动，运行前请完整阅读“安全须知”和“已知限制”。
 
+## 实机演示
+
+香蕉抓取、搬运与放置实机演示。 点击封面可查看 13.3 秒原速视频。
+
+| 实机封面 · 点击查看视频 | 动作预览 · GIF 1× |
+| :---: | :---: |
+| [<img src="docs/media/cover.jpg" alt="香蕉抓取、搬运与放置实机演示。封面" width="280">](docs/media/demo.mp4) | <img src="docs/media/demo.gif" alt="香蕉抓取、搬运与放置实机演示。1 倍速动图" width="280"> |
+
+[查看原速实机视频（MP4）](docs/media/demo.mp4)
+
+GIF 为 1 倍速连续片段，MP4 保持原速；视频无音轨。[素材说明](docs/media/README.md)
+
 ## 功能
 
 - RealSense RGB-D 图像与点云采集
